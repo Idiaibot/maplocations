@@ -1,4 +1,6 @@
-[{"city":"Cabrero","latitude":-37.0332999,"longitude":-72.4},
+{
+"meedata":[
+{"city":"Cabrero","latitude":-37.0332999,"longitude":-72.4},
 {"city":"Granville","latitude":48.8331738,"longitude":-1.6029573},
 {"city":"Pitogo","latitude":7.444229,"longitude":123.33769},
 {"city":"Baisha","latitude":26.641315,"longitude":100.222545},
@@ -497,4 +499,6 @@
 {"city":"Ejido","latitude":8.5493413,"longitude":-71.2428737},
 {"city":"Shitan","latitude":27.754532,"longitude":112.723615},
 {"city":"Young","latitude":-32.7021934,"longitude":-57.6382382},
-{"city":"Ängelholm","latitude":56.246131,"longitude":12.8726986}]
+{"city":"Ängelholm","latitude":56.246131,"longitude":12.8726986}
+ ]
+}
